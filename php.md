@@ -1,4 +1,4 @@
-***3S Intersoft JSC***
+**3S Intersoft JSC**
 
 JOB DESCRIPTION – PHP
 ---
