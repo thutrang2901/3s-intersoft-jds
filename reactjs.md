@@ -1,4 +1,4 @@
-3S Intersoft
+ReactJS Developer - 3S Intersoft
 ---
 **I. MÔ TẢ CÔNG VIỆC**
 
