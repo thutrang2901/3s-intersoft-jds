@@ -3,13 +3,15 @@
 
 Đang mở rộng cửa đón ứng viên tiềm năng cho các vị trí sau:
 
-1. PHP ([JD](https://github.com/thutrang2901/3s-intersoft-jds/blob/main/php.md))
-1. ReactJS
+1. [PHP](https://github.com/thutrang2901/3s-intersoft-jds/blob/main/php.md)
+1. [ReactJS](https://github.com/thutrang2901/3s-intersoft-jds/blob/main/reactjs.md)
 1. .Net
-1. Tester
+1. [Tester](https://github.com/thutrang2901/3s-intersoft-jds/blob/main/Tester.md)
 1. BrSE
 1. Java
 1. Hardware Engineer
+1. [Angular Developer](https://github.com/thutrang2901/3s-intersoft-jds/blob/main/angular.md)
+1. [Magento](https://github.com/thutrang2901/3s-intersoft-jds/blob/main/Magento.md)
 
 ---
 **Contact HR**
