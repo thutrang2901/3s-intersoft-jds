@@ -27,11 +27,11 @@ JOB DESCRIPTION – PHP
 - Làm việc từ Thứ Hai đến Thứ Sáu (9g-12g ; 13g-18g)
 
 ---
-Email: `hr@3si.vn`
+Email: `trang.ntt@3si.vn`
 
 Adress: `3rd floor, Kim Anh Building, No 1/78 Duy Tan str, Cau Giay dist`		 
 
-Phone: `0961.878.818`
+Phone: `0346.986.436`
 
 Fanpage: https://www.facebook.com/3si.vn
 
