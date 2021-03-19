@@ -8,7 +8,11 @@ Vị trí: JAVA Developer
 
 Lương: Thỏa thuận 
 
-Địa điểm làm việc: Tòa nhà Kim Ánh, ngõ 78 Duy Tân, HN
+Địa điểm làm việc: 
+
+HN: Tòa nhà Kim Ánh, ngõ 78 Duy Tân, HN
+
+Huế: số 28 Nguyễn Tri Phương, Phú Nhuận, Huế
 
 Số lượng: 2
 
