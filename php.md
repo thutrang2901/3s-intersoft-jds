@@ -6,7 +6,7 @@ JOB DESCRIPTION – PHP
 1. **Mô tả công việc**
 - Tham gia phát triển các dự án bằng ngôn ngữ PHP
 2. **Yêu cầu**
-- 3 năm kinh nghiệm PHP trở lên
+- 2 năm kinh nghiệm PHP trở lên
 - 2 năm kinh Mangento, ưu tiên Magento 2
 - 2 năm kinh nghiệm HTML, CSS, Javascript and Jquery
 - Sử dụng Git thành thạo (Sourcetree hoặc Git command), Git flow (Merge, resolve conflict,..)
