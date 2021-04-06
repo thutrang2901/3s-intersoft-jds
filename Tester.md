@@ -4,7 +4,7 @@ CÔNG TY CỔ PHẦN PHẦN MỀM QUỐC TẾ 3S
 ---
 Vị trí: Tester Manual
 
-Lương: Upto 20M
+Lương: Upto 25M
 
 Địa điểm làm việc: 
 - Tòa nhà Kim Ánh, ngõ 78 Duy Tân, HN
@@ -22,7 +22,7 @@ Số lượng: 2
 - Phối hợp với các thành viên trong nhóm và các bộ phận liên quan để đảm bảo chất lượng phần mềm trước khi bàn giao cho khách hàng.
 
 **II. YÊU CẦU**
-- Có kinh nghiệm > 2 năm về lĩnh vực kiểm thử phần mềm;
+- Có kinh nghiệm > 4 năm về lĩnh vực kiểm thử phần mềm;
 - Có kiến thức chắc về kiểm thử, có kinh nghiệm và thành thạo về truy vấn cơ sở dữ liệu SQL;
 - Chịu trách nghiệm thực hiện kiểm thử hệ thống, viết kịch bản / lên kế hoạch / thực hiện kiểm thử và thông báo kết quả.
 - Quản lý lỗi và làm việc với đầu mối để đảm bảo các lỗi hoàn thành đúng hạn để bàn giao kết quả trong báo cáo kiểm thử.
