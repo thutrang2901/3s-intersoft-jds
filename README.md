@@ -16,7 +16,7 @@
 ---
 **Contact HR**
 
-Ms Trang - `0346.986.436`
+Ms Trang (Phone/Zalo) - `0385.991.928`
 
 Email: `trang.ntt@3si.vn`
 
