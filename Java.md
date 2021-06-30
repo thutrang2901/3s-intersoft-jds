@@ -24,6 +24,7 @@ Số lượng: 2
 - Lập trình phát triển theo yêu cầu của dự án
 
 **II. YÊU CẦU**
+- Có từ trên 2 năm kinh nghiệm ở vị trí tương đương
 - Có kiến thức về lập trình hướng đối tượng.
 - Có kiến thức và kinh nghiệm về EJB, JSF, JPA, web Service and Hibernate Framework.
 - Có kinh nghiệm làm việc về web programing with Java EE 8 trở lên 
@@ -33,7 +34,7 @@ Số lượng: 2
 - Có kinh nghiệm và kiến thức về TypeScript, Knockout(observable), Jquery, Lodash, HTML5, CSS, Javascript là lợi thế
 
 **III. QUYỀN LỢI**
-- Lương: 15-25M
+- Lương: thoả thuận theo năng lực
 - Lương thưởng tháng 13
 - Review career path định kỳ 1 lần/năm. Có định hướng career path rõ ràng.
 - Thưởng dự án, thưởng cá nhân theo năng lực sau mỗi dự án
@@ -43,7 +44,7 @@ Số lượng: 2
 - Các events: Company Trip, Happy Hour, Halloween, Christmas, Family Day…
 - Làm việc môi trường năng động. Tiếp cận với nhiều công nghệ mới, luôn được hỗ trợ nhiệt tình.
 Thông tin khác:
-- Làm việc từ Thứ Hai đến Thứ Sáu (9g-12g ; 13g-18g)
+- Làm việc từ Thứ Hai đến Thứ Sáu (Hà Nội: 9g-12g ; 13g-18g) (Huế: 8g-12g ; 1g30-5g30)
 - Môi trường outsource siêu trẻ, hỗ trợ phát triển bản thân tối đa
 
 THÔNG TIN CÔNG TY
@@ -52,6 +53,6 @@ THÔNG TIN CÔNG TY
 - Email: recruit@3si.vn
 
 Contact HR
-Ms Trang: 0346.986.436 - Skype: trang.ntt291
+Ms Trang: 0385.991.928 - Skype: trang.ntt291
 
 Email: trang.ntt@3si.vn
