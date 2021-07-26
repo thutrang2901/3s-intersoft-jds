@@ -39,6 +39,6 @@ Fanpage: https://www.facebook.com/3si.vn
 
 Contact HR
 
-Ms Trang: 0346.986.436 - Skype: trang.ntt291
+Ms Trang: 0385.991.928 - Skype: trang.ntt291
 
 Email: trang.ntt@3si.vn
